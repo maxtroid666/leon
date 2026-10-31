@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# После публикации добавьте: Sitemap: https://ВАШ-ДОМЕН/sitemap.xml
